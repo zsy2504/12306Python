@@ -1,3 +1,4 @@
+#安装依赖
 用Python模拟浏览器操作，使用splinter模块，下面记录下安装方法。 
 1. 第一种使用pip安装 
 pip是一个包管理工具，安装pip：到目录/Library/Python/2.7/site-packages 下运行easy_install pip 
@@ -11,6 +12,8 @@ $ python setup.py install
 $ cd splinter 
 $ python setup.py install
 
+#安装浏览器及其驱动
+http://www.cnblogs.com/technologylife/p/5829944.html
 
 
 # 12306Python
