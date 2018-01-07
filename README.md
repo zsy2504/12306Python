@@ -1,3 +1,18 @@
+用Python模拟浏览器操作，使用splinter模块，下面记录下安装方法。 
+1. 第一种使用pip安装 
+pip是一个包管理工具，安装pip：到目录/Library/Python/2.7/site-packages 下运行easy_install pip 
+安装splinter： 
+$ pip install splinter 
+2. 第二种使用git： 
+$ git clone git://github.com/cobrateam/splinter.git 
+$ cd splinter 
+$ python setup.py install 
+3. 第三种直接下载zip文件 
+$ cd splinter 
+$ python setup.py install
+
+
+
 # 12306Python
 hack12306.py 是一个 Python 3.x 版的[12306.cn](http://www.12306.cn/mormhweb/)自动订票程序。
 
